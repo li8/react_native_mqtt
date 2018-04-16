@@ -1,10 +1,10 @@
 {
-  "name": "react_native_mqtt",
+  "name": "react_native_mqtt_paho",
   "version": "0.0.0-semantically-released",
   "description": "Drop in mqtt client for react native.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Introvertuous/react_native_mqtt"
+    "url": "https://github.com/li8/react_native_mqtt"
   },
   "dependencies": {
     "react-native-storage": "^0.1.2"
